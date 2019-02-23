@@ -241,19 +241,12 @@
 	bottom: 12px;
 	left: 36%;
 } 
-.social4 {
-	bottom: 12px;
-	right: 36%;
-}
 .social5 {
 	right: 28%;
 }
 .curved img {
 	margin-top: -135px;
 	margin-left: 130px;
-}    
-.about-details {
-    padding-top: 50px;
 }    
 #service::after {
 	display: none;
@@ -359,6 +352,30 @@
     
 } 
 
+@media(min-width:320px){
+    .social2 {
+	bottom: 6px;
+	left: 65px;
+}
+}
+@media (max-width: 767px)
+.social4 {
+    bottom: 12px;
+    right: 19%;
+}
+@media (max-width:767px){
+    .about-details {
+    padding-top: 128px;
+}   
+}
+
+
+
+
+
+
+
+
 @media (width: 320px) {
 #index2 .intro p {
 	font-size: 18px;
@@ -373,10 +390,6 @@
 	bottom: 50px;
 	left: 0;
 }    
-.social2 {
-	bottom: 15px;
-	left: 55px;
-}
 .social-mid {
 	bottom: -8px;
 }
