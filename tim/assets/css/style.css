@@ -1,9 +1,8 @@
 /*
 ------------------
-Template Name: CV Minimal Personal Template
-Author: Themepoo
-Author Email: themepoo.cit@gmail.com
-Version: 1.00
+Template Name: Personal Template
+Author: Technol
+Author Email: technol.ltd@gmail.com
 ------------------
 
 ----------------
@@ -139,6 +138,7 @@ body {
 ==============*/
 #my-intro {
     padding-top: 90px;
+    
 }
 .img-border {
     width: 280px;
@@ -284,22 +284,22 @@ body {
     line-height: 24px;
 }
 .name span {
-    margin-right: 28px;
+    margin-right: 35px;
 }
 .age span {
-    margin-right: 49px;
+    margin-right: 56px;
 }
 .email span {
-    margin-right: 36px;
+    margin-right: 43px;
 }
 .address span {
-    margin-right: 18px;
+    margin-right: 22px;
 }
 .phone span {
-    margin-right: 29px;
+    margin-right: 7px;
 }
 .website span {
-    margin-right: 18px;
+    margin-right: 23px;
 }
 .name, .age, .email, .address, .phone, .website {
     padding-bottom: 25px;
