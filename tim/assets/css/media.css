@@ -369,7 +369,12 @@
 }   
 }
 
+@media(max-width:425px){
+    .testimonial-item {
+	width: 295px;
+}
 
+}
 
 
 
@@ -436,9 +441,9 @@
 .experiences {
 	padding-top: 30px;
 }
-.testimonial-item {
+/*.testimonial-item {
 	width: 260px;
-}
+}*/
 .slick-dots {
 	transform: rotate(90deg);
     right: 50%;
